@@ -1427,11 +1427,11 @@ function setupHtml(user?: AuthenticatedUser | null): string {
               </div>
               <div>
                 <dt>Payment Service URL and API key</dt>
-                <dd>Use a Masumi Payment Service base URL ending in <code>/api/v1</code> or Masumi SaaS ending in <code>/pay/api/v1</code>. <a href="https://docs.masumi.network/api-reference" target="_blank" rel="noreferrer">Masumi API reference</a></dd>
+                <dd>Use a Masumi Payment Service base URL ending in <code>/api/v1</code> or Masumi SaaS ending in <code>/pay/api/v1</code>. <a href="https://www.masumi.network/dev/masumi/api-reference" target="_blank" rel="noreferrer">Masumi API reference</a></dd>
               </div>
               <div>
                 <dt>Seller VKey and Agent Identifier</dt>
-                <dd>The seller VKey identifies the funded selling wallet. The agent identifier is created by Masumi registry registration; use Register agent, then Refresh registry until it appears. <a href="https://docs.masumi.network/documentation/how-to-guides/list-agent-on-sokosumi" target="_blank" rel="noreferrer">Sokosumi listing guide</a></dd>
+                <dd>The seller VKey identifies the funded selling wallet. The agent identifier is created by Masumi registry registration; use Register agent, then Refresh registry until it appears. <a href="https://www.masumi.network/dev/masumi/documentation/how-to-guides/list-agent-on-sokosumi" target="_blank" rel="noreferrer">Sokosumi listing guide</a></dd>
               </div>
             </dl>
           </details>
